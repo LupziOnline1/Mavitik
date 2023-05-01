@@ -1,2 +1,1 @@
-# Mavitik
-Mavitik
+["ozdemir_mami06","10muhammedozdemir"]
